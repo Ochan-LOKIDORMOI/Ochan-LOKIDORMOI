@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+![Image](https://github.com/user-attachments/assets/7d6a23ec-af94-4df4-bdc8-8ba546e85458)
 <h1 align="center">Hi 👋, I'm Ochan Denmark LOKIDORMOI</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="righet" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
